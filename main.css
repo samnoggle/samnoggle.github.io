@@ -16,6 +16,12 @@
 	--y: 0;
 }
 
+a:link a:visited {
+  color: var(--white);
+}
+
+
+
 .content {
     justify-content: left;
 }
